@@ -1,7 +1,7 @@
 <div style="display: inline_block">
 
-## Olá, eu sou Luan Santos <img align="center" height="30" width="40" src="https://thumbs.gfycat.com/HotMeatyBream-max-1mb.gif">  
-###  Bem-vindo(a) ao meu perfil no Github :octocat:
+## Olá, eu sou Luan Santos <img align="center" height="30" width="40" src="https://66.media.tumblr.com/dcac66d94aa91c9706a3166c7944dcd5/tumblr_mm31jswkAI1rfjowdo1_640.gif"/>  
+### Bem-vindo(a) ao meu perfil no Github :octocat:
 
 </div>
 
